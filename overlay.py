@@ -43,8 +43,8 @@ except ImportError:
 JOYSTICK_SIZE = 260      # px, diameter of the joystick pad
 DEADZONE = 0.25          # fraction of radius where nothing is pressed
 # Joystick zone (bottom-left corner), as fractions of the screen:
-LEFT_ZONE = 0.5          # how far across from the left edge
-BOTTOM_ZONE = 0.5        # how far up from the bottom edge
+LEFT_ZONE = 0.25         # how far across from the left edge
+BOTTOM_ZONE = 0.35       # how far up from the bottom edge
 OPACITY = 0.6            # how visible the joystick is while you use it (0..1)
 IDLE_OPACITY = 0.25      # how visible it is while resting in the corner (0..1)
 MARGIN = 40              # px from screen edges

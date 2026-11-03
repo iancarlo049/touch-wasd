@@ -20,7 +20,7 @@ virtual keyboard. If it still says "No permission", log out and back in.
    ```bash
    ./run.sh
    ```
-4. Put a finger anywhere in the **bottom-left quarter** of the screen: the joystick appears
+4. Put a finger anywhere in the **bottom-left corner** of the screen: the joystick appears
    under it. Slide to move. Tap the game's buttons with another finger at the
    same time. Press Ctrl+C in the terminal to quit.
 
